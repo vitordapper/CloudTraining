@@ -333,12 +333,12 @@ color:#000;
 background:#fff;
 }
 #team {
-	background: #000000;
+	background: #fff;
 	padding: 100px 0;
 }
 #team H4 {
 	padding-top: 10px;
-	color: #898989;
+	color: #E89A2F;
 }
 #team p.large {
 	margin-top: 60px;
@@ -352,8 +352,8 @@ background:#fff;
 	font-size: 15px;
 	line-height: 30px;
 	outline: 0;
-	color: #fff;
-	background-color: #E89A2F;
+	color: #E89A2F;
+	background-color: #fff;
 	-webkit-transition: all .3s;
 	-moz-transition: all .3s;
 	transition: all .3s;
