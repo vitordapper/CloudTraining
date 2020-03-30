@@ -233,7 +233,7 @@ a:before, a:after {
 #headerwrap {
 	background: url(../img/dronefeteria_cover.jpg) no-repeat center top;
 	margin-top: -50px;
-	padding-top: 120px;
+	padding-top: 100px;
 	text-align: center;
 	background-attachment: relative;
 	background-position: center center;
@@ -247,7 +247,7 @@ a:before, a:after {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-bottom: 50px;
+	padding-bottom: 30px;
 }
 #headerwrap h1 {
 	color: #ffffff;
