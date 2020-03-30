@@ -271,6 +271,14 @@ a:before, a:after {
 	font-size: 100px;
 	font-weight: bold;
 }
+#headerwrap .iconnew {
+	color: #ffffff;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	letter-spacing: 8px;
+	font-size: 80px;
+	font-weight: bold;
+}
 #headerwrap .btn {
 	font-weight: 500;
 	font-size: 20px;
